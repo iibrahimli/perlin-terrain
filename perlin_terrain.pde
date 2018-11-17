@@ -1,7 +1,7 @@
+// idea from:
 // Daniel Shiffman
 // http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/IKB1hWWedMk
+
 
 int cols, rows;
 int scl = 20;
